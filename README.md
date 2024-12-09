@@ -1,9 +1,9 @@
-<img src="./readme/title1.png"/>
+<img src="./readme/title1.svg"/>
 
 <br><br>
 
 <!-- project philosophy -->
-<img src="./readme/title2.png"/>
+<img src="./readme/title2.svg"/>
 
 A screen recording app powered by AI that extracts and summarizes video content for quick reviews. It intelligently fills  in network lag gaps with context-based suggestions to ensure smooth playback. Additionally, it segments the video into organized sections based on the topics covered, improving navigation and sharing.
 
@@ -19,7 +19,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 
 <br><br>
 <!-- Tech stack -->
-<img src="./readme/title3.png"/>
+<img src="./readme/title3.svg"/>
 
 ###  Coffee Express is built using the following technologies:
 
@@ -31,7 +31,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 
 <br><br>
 <!-- UI UX -->
-<img src="./readme/title4.png"/>
+<img src="./readme/title4.svg"/>
 
 
 > We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
@@ -47,7 +47,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 <br><br>
 
 <!-- Database Design -->
-<img src="./readme/title5.png"/>
+<img src="./readme/title5.svg"/>
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
@@ -58,7 +58,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 
 
 <!-- Implementation -->
-<img src="./readme/title6.png"/>
+<img src="./readme/title6.svg"/>
 
 
 ### User Screens (Mobile)
@@ -79,7 +79,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 
 
 <!-- Prompt Engineering -->
-<img src="./readme/title7.png"/>
+<img src="./readme/title7.svg"/>
 
 ###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
@@ -88,7 +88,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 <br><br>
 
 <!-- AWS Deployment -->
-<img src="./readme/title8.png"/>
+<img src="./readme/title8.svg"/>
 
 ###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
@@ -97,7 +97,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 <br><br>
 
 <!-- Unit Testing -->
-<img src="./readme/title9.png"/>
+<img src="./readme/title9.svg"/>
 
 ###  Precision in Development: Harnessing the Power of Unit Testing:
 
@@ -107,7 +107,7 @@ A screen recording app powered by AI that extracts and summarizes video content 
 
 
 <!-- How to run -->
-<img src="./readme/title10.png"/>
+<img src="./readme/title10.svg"/>
 
 > To set up Coffee Express locally, follow these steps:
 
