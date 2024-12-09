@@ -5,7 +5,7 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A screen recording app with AI capabilities: it extracts and summarizes video content, suggests context-based fills for network lags, and segments the video into organized sections based on topics.
+A screen recording app powered by AI that extracts and summarizes video content for quick reviews. It intelligently fills  in network lag gaps with context-based suggestions to ensure smooth playback. Additionally, it segments the video into organized sections based on the topics covered, improving navigation and sharing.
 
 ### User Stories
 #### Admin
