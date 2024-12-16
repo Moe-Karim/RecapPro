@@ -4,3 +4,6 @@
 [submodule "RecapPro-video-processing"]
 	path = RecapPro-video-processing
 	url = https://github.com/Moe-Karim/RecapPro-video-processing.git
+[submodule "RecapPro-AI"]
+	path = RecapPro-AI
+	url = https://github.com/Moe-Karim/RecapPro-AI.git
