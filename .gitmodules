@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Moe-Karim/RecapPro-backend.git
+[submodule "RecapPro-video-processing"]
+	path = RecapPro-video-processing
+	url = https://github.com/Moe-Karim/RecapPro-video-processing.git
