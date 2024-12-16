@@ -7,3 +7,6 @@
 [submodule "RecapPro-AI"]
 	path = RecapPro-AI
 	url = https://github.com/Moe-Karim/RecapPro-AI.git
+[submodule "RecapPro-Frontend"]
+	path = RecapPro-Frontend
+	url = https://github.com/Moe-Karim/RecapPro-Frontend.git
