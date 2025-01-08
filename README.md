@@ -21,22 +21,28 @@ A screen recording app powered by AI that extracts and summarizes video content 
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  Coffee Express is built using the following technologies:
+###  RecapPro is built using the following technologies:
 
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+- This project uses the [Flutter app development framework](https://flutter.dev/).
+Flutter is a cross-platform hybrid app development platform that allows us to use a single codebase for apps on iOS, Android, desktop, and the web.  
+- For screen recording, the app integrates native SDKs like [ReplayKit](https://developer.apple.com/documentation/replaykit) for iOS and [MediaProjection](https://developer.android.com/reference/android/media/projection/MediaProjection) for Android using Flutter’s [Platform Channels](https://docs.flutter.dev/development/platform-integration/platform-channels).  
+- Backend operations are managed with [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/).  
+- Persistent storage and metadata management use [MongoDB](https://www.mongodb.com/).  
+- For video processing, the app employs [FFmpeg](https://ffmpeg.org/).  
+- AI features include:  
+  - Network gap filling using [Deep Video Interpolation (DVI)](https://arxiv.org/abs/1711.09078).  
+  - Audio transcription with [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech).  
+  - Summarizing transcriptions with [OpenAI GPT](https://platform.openai.com/).  
+
 
 <br><br>
 <!-- UI UX -->
 <img src="./readme/title4.svg"/>
 
 
-> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+>We designed RecapPro using wireframes and mockups, refining the interface through multiple iterations to ensure an intuitive layout that offers effortless navigation and an engaging user experience.
 
-- Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
+- Project Figma design [figma](https://www.figma.com/design/88CDGHI1gPuGJVi2GumGQB/Nour-Notes?node-id=74-511&t=900Wghq49LUsty7n-1)
 
 
 ### Mockups
