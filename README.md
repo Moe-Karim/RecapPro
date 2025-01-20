@@ -105,15 +105,32 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> Recap Pro is a powerful tool for processing and segmenting videos with AI-driven insights. Follow the steps below to set it up locally.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Ensure you have the following installed on your system:
+
+- **Node.js** (Recommended: Latest LTS version) - [Download](https://nodejs.org/)
+- **npm** (Comes with Node.js, but update if necessary)
   ```sh
   npm install npm@latest -g
   ```
+- **FFmpeg** (Required for video processing)
+  - macOS (Homebrew):
+    ```sh
+    brew install ffmpeg
+    ```
+  - Ubuntu:
+    ```sh
+    sudo apt update && sudo apt install ffmpeg
+    ```
+  - Windows:
+    - Download from [FFmpeg official site](https://ffmpeg.org/download.html) and add it to your system PATH.
+
+- **Flutter** (Latest stable version)
+  - Follow installation guide: [Flutter Docs](https://flutter.dev/docs/get-started/install)
 
 ### Installation
 
