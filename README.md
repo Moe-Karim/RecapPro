@@ -42,7 +42,7 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 
 >RecapPro's interface was designed with user experience in mind. We used wireframing and multiple iterations of mockups to create an intuitive and engaging platform.
 
-- Project Figma design [figma](https://www.figma.com/design/88CDGHI1gPuGJVi2GumGQB/Nour-Notes?node-id=74-511&t=900Wghq49LUsty7n-1)
+- Project Figma design [figma](https://www.figma.com/design/qPOK5c0TeBfIz2ulzV6xUb/Recap-Pro?node-id=0-1&t=k5YeQ8ZgT5QJ5g4F-1)
 
 
 ### Mockups
