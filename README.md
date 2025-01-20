@@ -165,8 +165,8 @@ Ensure you have the following installed on your system:
       or
 
       - **Backend:**
-         ```sh
-         npm run start
+      ```sh
+      npm run start
       ```
    - **Frontend (Flutter app):**
      ```sh
