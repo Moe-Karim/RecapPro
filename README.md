@@ -89,8 +89,13 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 
 ###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
+This project leverages advanced prompt engineering techniques to optimize interactions with AI models for transcription analysis, gap filling, and topic segmentation. By carefully designing input prompts, we enhance language understanding and generation, ensuring precise responses tailored to video content. Key implementations include:
 
+- **Transcription Analysis:** Structuring AI queries to improve accuracy in speech-to-text conversion.
+- **Gap Filling:** Crafting prompts that guide AI in generating contextually relevant content for silent sections.
+- **Topic Segmentation:** Using structured prompts to guide the AI identifying and organizing video sections based on content themes.
+
+These techniques refine AI responses, making Recap Pro a powerful tool for automated video processing.
 <br><br>
 
 <!-- AWS Deployment -->
