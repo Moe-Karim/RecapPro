@@ -46,9 +46,9 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 
 
 ### Mockups
-| Onboarding 1  | Onboarding 2 | Order Screen |
+| Onboarding 1  | Onboarding 2 | Login Screen |
 | ---| ---| ---|
-| ![Landing](./readme/uix/Onboarding1.png) | ![fsdaf](./readme/uix/Onboarding2.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/uix/Onboarding1.png) | ![fsdaf](./readme/uix/Onboarding2.png) | ![fsdaf](./readme/uix/login.png) |
 
 <br><br>
 
