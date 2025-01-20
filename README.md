@@ -156,11 +156,15 @@ Ensure you have the following installed on your system:
    flutter pub get
    ```
 7. **Run the app**
-   - **Backend dev mode:**
+   - **Backend:**
+
+   -- **Backend dev mode:**
      ```sh
      npm run start:dev
      ```
-   - **Backend:**
+     or
+
+   -- **Backend:**
      ```sh
      npm run start
      ```
