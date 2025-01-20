@@ -51,6 +51,11 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 | ![Landing](./readme/uix/Onboarding1.png) | ![fsdaf](./readme/uix/Onboarding2.png) | ![fsdaf](./readme/uix/login.png) |
 
 <br><br>
+| Register  | Onboarding 2 | Login Screen |
+| ---| ---| ---|
+| ![Landing](./readme/uix/register.png) | ![fsdaf](./readme/uix/Onboarding2.png) | ![fsdaf](./readme/uix/login.png) |
+
+<br><br>
 
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
