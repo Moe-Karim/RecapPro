@@ -158,16 +158,16 @@ Ensure you have the following installed on your system:
 7. **Run the app**
    - **Backend:**
 
-   -- **Backend dev mode:**
-     ```sh
-     npm run start:dev
-     ```
-     or
+      - **Backend dev mode:**
+      ```sh
+      npm run start:dev
+      ```
+      or
 
-   -- **Backend:**
-     ```sh
-     npm run start
-     ```
+      - **Backend:**
+         ```sh
+         npm run start
+      ```
    - **Frontend (Flutter app):**
      ```sh
      flutter run
