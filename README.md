@@ -134,18 +134,39 @@ Ensure you have the following installed on your system:
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
-3. Install NPM packages
+1. **Get a free API Key** at [Groq](https://console.groq.com/keys)
+2. **Clone the repository**
    ```sh
-   npm install
+   git clone https://github.com/Moe-Karim/RecapPro.git
    ```
-4. Enter your API in `config.js`
+3. **Navigate into the project directory**
+   ```sh
+   cd RecapPro
+   ```
+4. **Install Node.js dependencies**
+   ```sh
+   npm i
+   ```
+5. **Set up the API key** in `.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = 'ENTER_YOUR_API_KEY_HERE';
    ```
+6. **Install Flutter dependencies**
+   ```sh
+   flutter pub get
+   ```
+7. **Run the app**
+   - **Backend dev mode:**
+     ```sh
+     npm run start:dev
+     ```
+   - **Backend:**
+     ```sh
+     npm run start
+     ```
+   - **Frontend (Flutter app):**
+     ```sh
+     flutter run
+     ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+Now, you should be able to run **Recap Pro** locally and explore its features. 🚀
