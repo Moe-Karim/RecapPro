@@ -30,8 +30,8 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 - Persistent storage and metadata management use [MongoDB](https://www.mongodb.com/).  
 - For video processing, the app employs [FFmpeg](https://ffmpeg.org/).  
 - AI features include:  
-  - Network gap filling using [Deep Video Interpolation (DVI)](https://arxiv.org/abs/1711.09078).  
-  - Audio transcription with [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech).  
+  - Network gap filling using [Groq](https://console.groq.com/docs/overview).  
+  - Audio transcription with [Groq](https://console.groq.com/docs/overview).  
   - Summarizing transcriptions with [OpenAI GPT](https://platform.openai.com/).  
 
 
