@@ -1,0 +1,286 @@
+{
+  "count": 1,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 1,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "6791888be1b35ffcbd37da9b"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "__v",
+      "path": [
+        "__v"
+      ],
+      "count": 1,
+      "type": "Int32",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Int32",
+          "path": [
+            "__v"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            1
+          ],
+          "bsonType": "Int32"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "path": [
+        "email"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "email"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "karim.fahs@gmail.com"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "path": [
+        "name"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "name"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "Karim Fahs"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "password",
+      "path": [
+        "password"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "password"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "$2b$10$rzjjhz6sFfJPvVTRlHxBYOtII0iv8yPR4nXfJfORN2fV0040xhguu"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "path": [
+        "videos"
+      ],
+      "count": 1,
+      "type": "Array",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Array",
+          "path": [
+            "videos"
+          ],
+          "count": 1,
+          "probability": 1,
+          "bsonType": "Array",
+          "types": [
+            {
+              "name": "Document",
+              "path": [
+                "videos"
+              ],
+              "count": 1,
+              "probability": 1,
+              "bsonType": "Document",
+              "fields": [
+                {
+                  "name": "_id",
+                  "path": [
+                    "videos",
+                    "_id"
+                  ],
+                  "count": 1,
+                  "type": "ObjectId",
+                  "probability": 1,
+                  "hasDuplicates": false,
+                  "types": [
+                    {
+                      "name": "ObjectId",
+                      "path": [
+                        "videos",
+                        "_id"
+                      ],
+                      "count": 1,
+                      "probability": 1,
+                      "unique": 1,
+                      "hasDuplicates": false,
+                      "values": [
+                        "6791894fe1b35ffcbd37daa3"
+                      ],
+                      "bsonType": "ObjectId"
+                    }
+                  ]
+                },
+                {
+                  "name": "createdAt",
+                  "path": [
+                    "videos",
+                    "createdAt"
+                  ],
+                  "count": 1,
+                  "type": "Date",
+                  "probability": 1,
+                  "hasDuplicates": false,
+                  "types": [
+                    {
+                      "name": "Date",
+                      "path": [
+                        "videos",
+                        "createdAt"
+                      ],
+                      "count": 1,
+                      "probability": 1,
+                      "unique": 1,
+                      "hasDuplicates": false,
+                      "values": [
+                        "2025-01-23T00:11:59.293Z"
+                      ],
+                      "bsonType": "Date"
+                    }
+                  ]
+                },
+                {
+                  "name": "path",
+                  "path": [
+                    "videos",
+                    "path"
+                  ],
+                  "count": 1,
+                  "type": "String",
+                  "probability": 1,
+                  "hasDuplicates": false,
+                  "types": [
+                    {
+                      "name": "String",
+                      "path": [
+                        "videos",
+                        "path"
+                      ],
+                      "count": 1,
+                      "probability": 1,
+                      "unique": 1,
+                      "hasDuplicates": false,
+                      "values": [
+                        "C:/Users/user/Downloads/test1.mp4"
+                      ],
+                      "bsonType": "String"
+                    }
+                  ]
+                },
+                {
+                  "name": "videoId",
+                  "path": [
+                    "videos",
+                    "videoId"
+                  ],
+                  "count": 1,
+                  "type": "ObjectId",
+                  "probability": 1,
+                  "hasDuplicates": false,
+                  "types": [
+                    {
+                      "name": "ObjectId",
+                      "path": [
+                        "videos",
+                        "videoId"
+                      ],
+                      "count": 1,
+                      "probability": 1,
+                      "unique": 1,
+                      "hasDuplicates": false,
+                      "values": [
+                        "6791894fe1b35ffcbd37daa2"
+                      ],
+                      "bsonType": "ObjectId"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "totalCount": 1,
+          "lengths": [
+            1
+          ],
+          "averageLength": 1
+        }
+      ]
+    }
+  ]
+}

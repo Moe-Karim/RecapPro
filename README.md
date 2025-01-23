@@ -58,10 +58,8 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
 
-<img src="./readme/code1.png"/>
-<img src="./readme/code1.png"/>
-<img src="./readme/code1.png"/>
-<img src="./readme/code1.png"/>
+<img src="./readme/code.png"/>
+
 
 
 
