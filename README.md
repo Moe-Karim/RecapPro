@@ -102,9 +102,11 @@ This project leverages advanced prompt engineering techniques to optimize intera
 
 These techniques refine AI responses, making Recap Pro a powerful tool for automated video processing.
 <br><br>
-| ---| ---| ---|
-| Transcribe audio | Segments videos | Gap filling |
-| ![Landing](./readme/ai/Transcribe.png) | ![fsdaf](./readme/ai/Topics.png) |![fsdaf](./readme/ai/Gaps.png) |
+| Feature | Description | Preview |
+| --- | --- | --- |
+| Transcribe Audio | Converts speech to text | ![Transcribe](./readme/ai/Transcribe.png) |
+| Segment Videos | Splits videos into topic-based segments | ![Topics](./readme/ai/Topics.png) |
+| Gap Filling | Fills silent gaps with AI-generated content | ![Gaps](./readme/ai/Gaps.png) |
 
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
