@@ -59,14 +59,14 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 
 
 <p align="center">
-  <img src="./readme/code1.png" width="45%" />
-  <img src="./readme/code2.png" width="45%" />
-  <img src="./readme/code3.png" width="45%" />
-
+  <img src="./readme/code1.png" width="30%" />
+  <img src="./readme/code2.png" width="30%" />
+  <img src="./readme/code3.png" width="30%" />
 </p>
 <p align="center">
-  <img src="./readme/code4.png" width="45%" />
+  <img src="./readme/code4.png" width="90%" />
 </p>
+
 
 
 
