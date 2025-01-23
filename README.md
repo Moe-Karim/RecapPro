@@ -116,6 +116,13 @@ These techniques refine AI responses, making Recap Pro a powerful tool for autom
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
 <br><br>
+| Register user | Change password | Login user |
+| --- | --- | --- |
+| ![Request1](./readme/aws/registerUser.png) | ![Request2](./readme/aws/changePassword.png) | ![Request3](./readme/aws/loginUser.png) |
+| Get videos | Upload video | Delete video |
+| ![Request4](./readme/aws/getVideos.png) | ![Request5](./readme/aws/uploadVideo.png) | ![Request6](./readme/aws/deleteVideos.png) |
+| Delete user |  |  |
+| ![Request7](./readme/aws/deleteUser.png) |  |  |
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
