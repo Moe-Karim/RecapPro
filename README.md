@@ -57,11 +57,11 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
-| Code 1 | Code 2 | Code 3 |
+| Part 1 | Part 2 | Part 3 |
 | --- | --- | --- |
 | <img src="./readme/code1.png" width="100%"> | <img src="./readme/code2.png" width="100%"> | <img src="./readme/code3.png" width="100%"> |
 
-| Code 4 |
+| Part 4 |
 | --- |
 | <img src="./readme/code4.png" width="80%"> |
 
@@ -89,7 +89,7 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+###  Boosting AI for Video Processing: Speech Analysis, Content Structuring, and Filling Gaps
 
 This project leverages advanced prompt engineering techniques to optimize interactions with AI models for transcription analysis, gap filling, and topic segmentation. By carefully designing input prompts, we enhance language understanding and generation, ensuring precise responses tailored to video content. Key implementations include:
 
@@ -108,9 +108,9 @@ These techniques refine AI responses, making Recap Pro a powerful tool for autom
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+### Deployment Strategy: Running on AWS EC2
 
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+-Our backend runs on an AWS EC2 instance, providing a stable and flexible environment for our application. EC2 allows us to manage the server, handle incoming requests efficiently, and ensure smooth performance. Since we have full control over the instance, we can update the application whenever needed, restart services, and adjust resources based on demand. This setup keeps our deployment simple while ensuring reliability and responsiveness.
 
 <br><br>
 | Register user | Change password | Login user |
@@ -120,7 +120,7 @@ These techniques refine AI responses, making Recap Pro a powerful tool for autom
 | ![Request4](./readme/aws/getVideos.png) | ![Request5](./readme/aws/uploadVideo.png) | ![Request6](./readme/aws/deleteVideos.png) |
 | Delete user |  |  |
 | ![Request7](./readme/aws/deleteUser.png) |  |  |
-
+<br><br>
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
