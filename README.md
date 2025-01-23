@@ -61,7 +61,7 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 <p align="center">
   <img src="./readme/code1.png" width="45%" />
   <img src="./readme/code2.png" width="45%" />
-    <img src="./readme/code3.png" width="45%" />
+  <img src="./readme/code3.png" width="45%" />
 
 </p>
 <p align="center">
@@ -78,18 +78,13 @@ Flutter is a cross-platform hybrid app development platform that allows us to us
 
 
 ### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
+| Onboarding screen  | Login screen | Recording screen | Change password |
 | ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-
-### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/screen/splash.gif) | ![fsdaf](./readme/screen/login.gif) | ![fsdaf](./readme/screen/recording.gif) | ![fsdaf](./readme/screen/Password.gif) |
+| Transcribe audio | Video segmentation | Gap filling | Gap subtitled |
+| ![Landing](./readme/screen/transcribe.gif) | ![fsdaf](./readme/screen/segments.gif) | ![fsdaf](./readme/screen/gapFilling.gif) | ![fsdaf](./readme/screen/gapFilled.gif) |
+| Dark mode | Clear videos | Delete user |
+| ![Landing](./readme/screen/dark.gif) | ![fsdaf](./readme/screen/videos.gif) |![fsdaf](./readme/screen/delete.gif) |
 
 <br><br>
 
